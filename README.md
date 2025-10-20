@@ -1,7 +1,7 @@
 # 💼 Projet – Site Web d’Agence de Marketing Digital
 
 > 🧑‍💻 Développé entièrement par **[Ton Nom Complet]**  
-> 🌐 Projet réalisé pour une **agence de marketing digital** afin de moderniser leur image en ligne et présenter leurs services.  
+> 🌐 Projet réalisé pour une ** YO Digital - Agence Marketing Digital ** afin de moderniser leur image en ligne et présenter leurs services.  
 > 🔗 Site live : [https://yodigital.ma](https://yodigital.ma)
 
 ---
@@ -99,11 +99,3 @@ UI/UX et responsive design
 Optimisation SEO et performance
 
 Déploiement et maintenance
-
-
-
----
-
-## 🖥️ Aperçu du site
-
-🟢 **Lien du site :** [https://yodigital.ma](https://yodigital.ma)  
