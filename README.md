@@ -1,6 +1,6 @@
 # 💼 Projet – Site Web d’Agence de Marketing Digital
 
-> 🧑‍💻 Développé entièrement par **[Ton Nom Complet]**  
+> 🧑‍💻 Développé entièrement par Salah eddine daghri
 > 🌐 Projet réalisé pour une ** YO Digital - Agence Marketing Digital ** afin de moderniser leur image en ligne et présenter leurs services.  
 > 🔗 Site live : [https://yodigital.ma](https://yodigital.ma)
 
